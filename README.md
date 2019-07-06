@@ -1,2 +1,2 @@
 # geokong.github.io
-permalink: /index.html
+permalink: _site/index.html
