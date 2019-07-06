@@ -9,9 +9,9 @@ description: "creative thinking"
 keywords: "jekyll theme, jekyll template, responsive jekyll theme"
 
 # URL settings
-baseurl: "/jekyll-inclusion" # the subpath of your site, e.g. /blog/
-url: "http://website-templates.github.io" # the base hostname & protocol for your site
-home-repo: "https://github.com/website-templates/jekyll-inclusion"
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.geokong.com" # the base hostname & protocol for your site
+home-repo: "https://www.geokong.com"
 
 # Social services
 twitter_username: orlovmax_im
