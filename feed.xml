@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Welcome to GeoKong</title>
-	<description>Responsive blog theme for jekyll website generator</description>
-	<link>http://website-templates.github.io/</link>
-	<atom:link href="http://website-templates.github.io/feed.xml" rel="self" type="application/rss+xml" />
-	<pubDate>Sat, 06 Jul 2019 14:37:38 +0800</pubDate>
-	<lastBuildDate>Sat, 06 Jul 2019 14:37:38 +0800</lastBuildDate>
+	<description>creative thinking</description>
+	<link>https://www.goekong.com/</link>
+	<atom:link href="https://www.goekong.com/feed.xml" rel="self" type="application/rss+xml" />
+	<pubDate>Sat, 06 Jul 2019 16:17:09 +0800</pubDate>
+	<lastBuildDate>Sat, 06 Jul 2019 16:17:09 +0800</lastBuildDate>
 	<generator>Jekyll v3.0.1</generator>
 	
 	  <item>
@@ -15,8 +15,8 @@
 
 </description>
 		<pubDate>Wed, 09 Sep 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/09/09/i18n/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/09/09/i18n/</guid>
+		<link>https://www.goekong.com/2015/09/09/i18n/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/09/09/i18n/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -35,8 +35,8 @@
 
 </description>
 		<pubDate>Tue, 20 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/20/yaml-front-matter/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/20/yaml-front-matter/</guid>
+		<link>https://www.goekong.com/2015/01/20/yaml-front-matter/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/20/yaml-front-matter/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -76,8 +76,8 @@
 
 </description>
 		<pubDate>Mon, 19 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/19/demo-post-typo/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/19/demo-post-typo/</guid>
+		<link>https://www.goekong.com/2015/01/19/demo-post-typo/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/19/demo-post-typo/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -104,8 +104,8 @@
 
 </description>
 		<pubDate>Sun, 18 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/18/demo-post-images/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/18/demo-post-images/</guid>
+		<link>https://www.goekong.com/2015/01/18/demo-post-images/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/18/demo-post-images/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -128,8 +128,8 @@
 
 </description>
 		<pubDate>Sat, 17 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/17/demo-post-blockquotes/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/17/demo-post-blockquotes/</guid>
+		<link>https://www.goekong.com/2015/01/17/demo-post-blockquotes/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/17/demo-post-blockquotes/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -152,8 +152,8 @@
 
 </description>
 		<pubDate>Fri, 16 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/16/demo-post-lists/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/16/demo-post-lists/</guid>
+		<link>https://www.goekong.com/2015/01/16/demo-post-lists/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/16/demo-post-lists/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -177,8 +177,8 @@
 
 </description>
 		<pubDate>Thu, 15 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/15/demo-post-code/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/15/demo-post-code/</guid>
+		<link>https://www.goekong.com/2015/01/15/demo-post-code/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/15/demo-post-code/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -201,8 +201,8 @@
 
 </description>
 		<pubDate>Wed, 14 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/14/demo-post-tables/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/14/demo-post-tables/</guid>
+		<link>https://www.goekong.com/2015/01/14/demo-post-tables/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/14/demo-post-tables/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -229,8 +229,8 @@
 
 </description>
 		<pubDate>Tue, 13 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/13/demo-post-blocks/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/13/demo-post-blocks/</guid>
+		<link>https://www.goekong.com/2015/01/13/demo-post-blocks/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/13/demo-post-blocks/</guid>
 		
 		<category>Lorem ipsum</category>
 		
@@ -271,8 +271,8 @@
 &lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;button button_center button_regular button_disabled&quot; title=&quot;Regular disabled button&quot;&gt;Disabled button&lt;/button&gt;&lt;/p&gt;
 </description>
 		<pubDate>Mon, 12 Jan 2015 00:00:00 +0800</pubDate>
-		<link>http://website-templates.github.io/2015/01/12/demo-post-buttons/</link>
-		<guid isPermaLink="true">http://website-templates.github.io/2015/01/12/demo-post-buttons/</guid>
+		<link>https://www.goekong.com/2015/01/12/demo-post-buttons/</link>
+		<guid isPermaLink="true">https://www.goekong.com/2015/01/12/demo-post-buttons/</guid>
 		
 		<category>Lorem ipsum</category>
 		
