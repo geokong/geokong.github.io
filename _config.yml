@@ -2,11 +2,11 @@
 
 # General settings
 lang: en
-title: Inclusion jekyll theme
-email: mail@orlovmax.com
-author: Maxim Orlov
+title: welcome to geokong
+email: ??@gmail.com
+author: geokong
 description: "creative thinking"
-keywords: "jekyll theme, jekyll template, responsive jekyll theme"
+keywords: "jekyll theme"
 
 # URL settings
 #baseurl: "" # the subpath of your site, e.g. /blog/
@@ -14,21 +14,18 @@ url: "www.geokong.com" # the base hostname & protocol for your site
 home-repo: "https://www.geokong.com"
 
 # Social services
-twitter_username: orlovmax_im
-github_username:  orlovmax
+github_username:  geokong
 # fb_username:
 # vk_username:
-gplus_username: 104202961668156466871
 # skype_username:
-bitbucket_username: orlovmax
 # linkedin_username:
 
 # Multilanguage blog settings: names, base url and current lang
 # langs:
-#   "en": "http://blog.orlovmax.com"
-#   "ru": "http://rublog.orlovmax.com"
-#   "ua": "http://uablog.orlovmax.com"
-# lang_current: "ua"
+#   "en": "https://www.geokong.com"
+#   "ru": "https://www.geokong.com"
+#   "ua": "https://www.geokong.com"
+# lang_current: "en"
 
 # Default src
 start_img: "static/images/bg/start.jpg"
