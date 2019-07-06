@@ -5,7 +5,7 @@
   internal: "/archive"
 
 - name: "About author"
-  external: "http://orlovmax.com"
+  external: "www.geokong.com"
 
 - name: "Project on github"
-  external: "https://github.com/website-templates/jekyll-inclusion"
+  external: "https://github.com/geokong/geokong.github.io"
