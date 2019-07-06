@@ -8,7 +8,7 @@ end_blur: true
 color: light
 regenerate: true
 ---
-<!DOCTYPE html>
+{% strip %}<!DOCTYPE html>
 <html lang="{{ site.lang }}">
   <head>
     <!-- Meta information-->
@@ -222,4 +222,4 @@ regenerate: true
     <!-- build:js {{ site.baseurl | append: '/' | append: 'static/js/main.min.js' | replace: '//', '/' }} -->
     <script src="{{ site.baseurl | append: '/' | append: 'static/js/main.js' | replace: '//', '/' }}"></script><!-- /build -->
   </body>
-</html>
+</html>{% endstrip %}
